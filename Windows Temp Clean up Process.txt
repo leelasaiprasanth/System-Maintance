@@ -65,3 +65,7 @@ navigate to
         Hidden ProgramData
         navigate to folder path
               C:\ProgramData\NVIDIA Corporation\NV_Cache
+              
+              
+Watch Star wars on cmd:
+telnet towel.blinkenlights.nl
