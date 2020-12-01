@@ -69,3 +69,8 @@ navigate to
               
 Watch Star wars on cmd:
 telnet towel.blinkenlights.nl
+
+
+God Mode 
+* Create Folder and rename with the code
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
