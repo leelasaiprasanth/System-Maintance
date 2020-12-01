@@ -74,3 +74,20 @@ telnet towel.blinkenlights.nl
 God Mode 
 * Create Folder and rename with the code
 GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+
+
+encrypt 
+
+cipher /e <path of folder
+
+
+decrypt 
+
+cipher /d <path of the folder
+
+ease permently
+cipher /w:<path of the folder>
+
+silde to shutdown
+C:\Windows\System32\SlideToShutDown.exe
